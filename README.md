@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Romofish;
-- 👀 I’m interested in SAS;
+- 👀 I’m interested in SAS/Python/AI;
 - 🌱 I’m currently learning nothing;
-- 💞️ I’m looking to collaborate on gain money without pain;
+- 💞️ I’m looking to collaborate on gaining money without pain;
 - 📫 How to reach me while not now.
 
 <!---
