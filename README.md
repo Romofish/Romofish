@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Romofish;
-- 👀 I’m interested in SAS/Python/AI;
-- 🌱 I’m currently learning nothing;
-- 💞️ I’m looking to collaborate on gaining money without pain;
-- 📫 How to reach me while not now.
+-👋 Hi, I'm @Romofish.
+-👀 I'm interested in SAS/Python/AI.
+-🌱 I'm currently not learning anything.
+-💞️ I'm looking to collaborate on finding ways to earn money effortlessly.
+-📫 You can reach out to me at a later time.
 
 <!---
 Romofish/Romofish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
